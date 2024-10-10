@@ -1,0 +1,16 @@
+{"level":"info","message":"Ticket booked for movie: Inception, Seat: A9, Theatre: The Grand Theatre","service":"movie-booking-service","timestamp":"2024-10-08 15:23:59"}
+{"level":"error","message":"Failed to send message to Kafka: Connection error: connect ECONNREFUSED ::1:9092","service":"movie-booking-service","timestamp":"2024-10-08 15:24:10"}
+{"level":"info","message":"Ticket booked for movie: Inception, Seat: A3, Theatre: The Grand Theatre","service":"movie-booking-service","timestamp":"2024-10-08 15:56:26"}
+{"level":"info","message":"Message sent to Kafka topic ticket-booked: {\"movie\":\"Inception\",\"theatre\":\"The Grand Theatre\",\"seatNumber\":\"A3\",\"user\":\"omsanjaygodase11@gmail.com\",\"ticketId\":\"670508d2b2f3166937423796\"}","service":"movie-booking-service","timestamp":"2024-10-08 15:56:26"}
+{"level":"info","message":"Ticket booked for movie: Inception, Seat: A2, Theatre: The Grand Theatre","service":"movie-booking-service","timestamp":"2024-10-08 16:07:10"}
+{"level":"info","message":"Message sent to Kafka topic ticket-booked: {\"movie\":\"Inception\",\"theatre\":\"The Grand Theatre\",\"seatNumber\":\"A2\",\"user\":\"omsanjaygodase11@gmail.com\",\"ticketId\":\"67050b56de1f6cd5d2481143\"}","service":"movie-booking-service","timestamp":"2024-10-08 16:07:10"}
+{"level":"info","message":"Ticket booked for movie: Inception, Seat: A7, Theatre: The Grand Theatre","service":"movie-booking-service","timestamp":"2024-10-09 11:03:35"}
+{"level":"info","message":"Message sent to Kafka topic ticket-booked: {\"movie\":\"Inception\",\"theatre\":\"The Grand Theatre\",\"seatNumber\":\"A7\",\"user\":\"omsanjaygodase11@gmail.com\",\"ticketId\":\"670615afde1f6cd5d2481177\"}","service":"movie-booking-service","timestamp":"2024-10-09 11:03:35"}
+{"level":"info","message":"Ticket booked for movie: Interstellar, Seat: A3, Theatre: Cosmic Cinemas","service":"movie-booking-service","timestamp":"2024-10-09 11:37:24"}
+{"level":"info","message":"Message sent to Kafka topic ticket-booked: {\"movie\":\"Interstellar\",\"theatre\":\"Cosmic Cinemas\",\"seatNumber\":\"A3\",\"user\":\"omsanjaygodase11@gmail.com\",\"ticketId\":\"67061d9cde1f6cd5d2481252\"}","service":"movie-booking-service","timestamp":"2024-10-09 11:37:24"}
+{"level":"info","message":"Ticket booked for movie: Gravity, Seat: A1, Theatre: Orbit Cinemas","service":"movie-booking-service","timestamp":"2024-10-09 14:07:43"}
+{"level":"error","message":"Failed to send message to Kafka: Connection error: connect ECONNREFUSED ::1:9092","service":"movie-booking-service","timestamp":"2024-10-09 14:07:53"}
+{"level":"info","message":"Ticket booked for movie: Gravity, Seat: A5, Theatre: Orbit Cinemas","service":"movie-booking-service","timestamp":"2024-10-09 14:08:24"}
+{"level":"error","message":"Failed to send message to Kafka: Connection error: connect ECONNREFUSED ::1:9092","service":"movie-booking-service","timestamp":"2024-10-09 14:08:34"}
+{"level":"info","message":"Ticket booked for movie: Gravity, Seat: A1, Theatre: Orbit Cinemas","service":"movie-booking-service","timestamp":"2024-10-09 14:08:58"}
+{"level":"error","message":"Failed to send message to Kafka: Connection error: connect ECONNREFUSED ::1:9092","service":"movie-booking-service","timestamp":"2024-10-09 14:09:09"}

@@ -1,0 +1,4 @@
+{"level":"error","message":"Failed to send message to Kafka: Connection error: connect ECONNREFUSED ::1:9092","service":"movie-booking-service","timestamp":"2024-10-08 15:24:10"}
+{"level":"error","message":"Failed to send message to Kafka: Connection error: connect ECONNREFUSED ::1:9092","service":"movie-booking-service","timestamp":"2024-10-09 14:07:53"}
+{"level":"error","message":"Failed to send message to Kafka: Connection error: connect ECONNREFUSED ::1:9092","service":"movie-booking-service","timestamp":"2024-10-09 14:08:34"}
+{"level":"error","message":"Failed to send message to Kafka: Connection error: connect ECONNREFUSED ::1:9092","service":"movie-booking-service","timestamp":"2024-10-09 14:09:09"}
